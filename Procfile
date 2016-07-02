@@ -1,1 +1,1 @@
-web: gunicorn placeholder.py --log-file -
+web: python placeholder.py runserver --log-file -
