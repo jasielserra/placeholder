@@ -1,1 +1,1 @@
-web: python placeholder.py runserver --log-file -
+web: placeholder.py runserver
