@@ -1,1 +1,1 @@
-web: placeholder.py runserver
+web: gunicorn placeholder.placeholder
